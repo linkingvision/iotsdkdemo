@@ -1,0 +1,5 @@
+﻿7.4 0128 2019
+1. Add missing header file for SDK.
+2. Add PushFrameBuf method in iotsdk.
+2. Add Demo app in github(https://github.com/linkingvision/iotsdkdemo).
+

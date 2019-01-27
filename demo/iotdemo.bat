@@ -1,0 +1,1 @@
+iotsdkdemo.exe "rtsp://192.168.100.173:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_1" admin admin12345 2 test1 192.168.100.135 8080 admin 12345 0

@@ -1,0 +1,10 @@
+﻿  BasicHashTable.cpp
+  BasicTaskScheduler.cpp
+d:\xdev\05-h5stream\src\3rdparty\live555\basicusageenvironment\basictaskscheduler.cpp(100): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+  BasicTaskScheduler0.cpp
+  BasicUsageEnvironment.cpp
+  BasicUsageEnvironment0.cpp
+d:\xdev\05-h5stream\src\3rdparty\live555\basicusageenvironment\basicusageenvironment0.cpp(91): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  DelayQueue.cpp
+  正在生成代码...
+  BasicUsageEnvironment.vcxproj -> D:\xdev\05-h5stream\src\3rdparty\live555\x64\Debug\BasicUsageEnvironment.lib
